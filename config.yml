@@ -1,0 +1,9 @@
+#SQL
+
+sql-host: 127.0.0.1
+
+sql-db: utils
+
+sql-user: root
+
+sql-pass: 

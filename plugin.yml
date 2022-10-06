@@ -1,0 +1,20 @@
+name: gUtils
+version: 0.1
+main: me.ghost.main.Main
+author: GhostUEP
+commands:
+   setperm:
+   tag:
+   groupset:
+   givevip:
+   ban:
+   unban:
+   mute:
+   tempmute:
+   tempban:
+   unmute:
+   kick:
+   groupperm:
+   groupsetuuid:
+   setpermuuid:
+   givevipuuid:
